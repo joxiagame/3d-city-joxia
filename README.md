@@ -1,3 +1,7 @@
+<!-- joxia-credits -->
+> 🎮 **Fork Joxia Games** de [lo-th/3d.city](https://github.com/lo-th/3d.city) — jeu original de ses auteurs, licence **GPL-3.0** (fichier `LICENSE` d'origine conservé). Jouer : https://joxiagame.github.io/3d-city-joxia/ · Crédits : [`CREDITS.md`](CREDITS.md) · Liste source : [leereilly/games](https://github.com/leereilly/games)
+<!-- /joxia-credits -->
+
 # 3d.city v 1.0.0
 
 > A **3D, browser-playable** city building game — no download, no install, just open a tab and build.
